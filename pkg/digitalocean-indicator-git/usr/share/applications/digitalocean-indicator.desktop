@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Digitalocean Indicator
+Comment=Monitor your droplets
+Categories=GNOME;Utility;
+Exec=/usr/bin/digitalocean-indicator
+Icon=digitalocean-indicator
+Terminal=false
+Type=Application
